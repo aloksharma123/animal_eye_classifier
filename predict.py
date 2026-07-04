@@ -52,3 +52,5 @@ for filename in os.listdir(TEST_FOLDER):
         print(f"\nImage      : {filename}")
         print(f"Prediction : {predicted_class}")
         print(f"Confidence : {confidence:.2f}%")
+         
+         
